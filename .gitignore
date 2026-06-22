@@ -1,0 +1,5 @@
+#sirve para ignorar imagenes, archivos, carpetas, etc. que no queremos subir a github
+*.png
+*.jpg
+
+hola.txt
